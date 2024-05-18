@@ -84,7 +84,7 @@ Note: Use Python version: 3.8.5
   
   ### Procedure
   ```bash
-  git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
+  git clone https://github.com/Raj4159/Virtual-Mouse-using-OpenCV.git
   ```
   For detailed information about cloning visit [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
   
