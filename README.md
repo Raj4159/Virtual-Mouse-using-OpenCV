@@ -105,9 +105,6 @@ Note: Use Python version: 3.8.5
   
   Step 4:
   ```bash 
-  conda install PyAudio
-  ```
-  ```bash 
   conda install pywin32
   ```
   
